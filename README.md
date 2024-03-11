@@ -2,6 +2,10 @@
 
 ###
 
+<p> <img src="https://komarev.com/ghpvc/?username=adarshsudo&label=Profile%20views&color=0e75b6&style=flat" alt="adarshsudo" /> </p>
+
+###
+
 <div align="center">
   <a href="https://www.linkedin.com/in/adarshxd/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />

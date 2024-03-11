@@ -42,6 +42,10 @@
   <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=adobephotoshop&logoColor=black&style=for-the-badge" height="40" alt="adobephotoshop logo"  />
 </div>
 
+<div align="center">
+  ![](https://github-profile-trophy.vercel.app/?username=yogeshxd&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+</div>
+
 ###
 
 <div align="center">

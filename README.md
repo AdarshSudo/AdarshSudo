@@ -43,7 +43,7 @@
 </div>
 
 <div align="center">
-  ![](https://github-profile-trophy.vercel.app/?username=yogeshxd&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adarshsudo" alt="adarshsudo"/></a>
 </div>
 
 ###

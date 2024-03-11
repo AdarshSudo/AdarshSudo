@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adarsh Rai</h1>
 
-[![](https://visitcount.itsvg.in/api?id=AdarshSudo/&icon=8&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=AdarshSudo&icon=8&color=0)](https://visitcount.itsvg.in)
 
 ###
 

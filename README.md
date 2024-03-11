@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adarsh Rai</h1>
 
+[![](https://visitcount.itsvg.in/api?id=AdarshSudo/&icon=8&color=0)](https://visitcount.itsvg.in)
+
 ###
 
 <div align="center">
@@ -51,6 +53,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/AdarshSudo/AdarshSudo/output/snake.svg" alt="Snake animation" />
+
 
 ###
